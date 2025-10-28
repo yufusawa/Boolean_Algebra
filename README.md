@@ -1,6 +1,3 @@
-# HardwareArchitecture
-
-
 $$
 (\overline{X} \land (Y \lor Z)) \lor ((\overline{X} \rightarrow \overline{\overline{Y}}) \lor Z)
 $$
